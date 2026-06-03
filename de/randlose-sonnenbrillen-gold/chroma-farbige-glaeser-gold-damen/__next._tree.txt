@@ -1,0 +1,9 @@
+:HL["/eclipse-gold/_next/static/chunks/0~4l2lfgn9ymf.css","style"]
+:HL["/eclipse-gold/_next/static/chunks/11nh055xkqvpq.css","style"]
+:HL["/eclipse-gold/_next/static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/eclipse-gold/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/eclipse-gold/_next/static/chunks/08~ift0-0svbn.css","style"]
+:HL["/eclipse-gold/_next/static/chunks/0ta4lpclm222l.css","style"]
+:HL["/eclipse-gold/_next/static/chunks/0rttxd8i4_x9b.css","style"]
+:HL["/eclipse-gold/_next/static/chunks/04.jje~02bh12.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":24,"slots":{"children":{"name":"lang","param":{"type":"d","key":"de","siblings":null},"prefetchHints":4,"slots":{"children":{"name":"collection","param":{"type":"d","key":"randlose-sonnenbrillen-gold","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"product","param":{"type":"d","key":"chroma-farbige-glaeser-gold-damen","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"HiPMK7fCvYrZD6rm7Ev3t"}

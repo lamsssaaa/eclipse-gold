@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://eclipsegold.com/sitemap/products.xml
+Sitemap: https://eclipsegold.com/sitemap/collection.xml
+Sitemap: https://eclipsegold.com/sitemap/static.xml
